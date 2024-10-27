@@ -30,7 +30,7 @@ export default async function NewAppointment({ params: { userId }}: SearchParamP
           />
 
           <p className="copyright mt-10 py-12">
-            © 2024 CarePulse
+          © 2024 CarePulse desarrollado por Cristian Villalobos
           </p>
         </div>
       </section>

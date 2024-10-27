@@ -74,7 +74,7 @@ const Success = async ({
             Nueva Cita
           </Link>
         </Button>
-        <p className="copyright">© 2024 CarePulse</p>
+        <p className="copyright">© 2024 CarePulse desarrollado por Cristian Villalobos</p>
       </div>
     </div>
   );
